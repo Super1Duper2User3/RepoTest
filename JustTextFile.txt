@@ -1,3 +1,5 @@
 It's Only Test File for Education about GitHub Usage.
 :-)
 Edit AutoMagic Test!!!
+
+Test GitHub Desktop
